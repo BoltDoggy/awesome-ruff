@@ -8,7 +8,7 @@
 
 通过[中文官网](https://ruff.io/zh-cn/)进行[购买](http://detail.koudaitong.com/show/goods?alias=35wmug7n0nrzf)、[下载](https://ruff.io/zh-cn/docs/download.html)，并阅读[入门文档](https://ruff.io/zh-cn/docs/)
 
-这个仓库用来整理社区内有价值的文章，并收集网络更多相关资源，主要面向想尝试硬件编程的 JavaScript 开发者。
+这个仓库用来整理[社区](http://community.ruff.io/)内有价值的文章、[软件仓库](https://rap.ruff.io/)内更优秀的软件包，并收集网络更多相关资源，主要面向想尝试硬件编程的 JavaScript 开发者。
 
 ## 目录
 
@@ -25,3 +25,8 @@
 ## 更多资源
 
 * [RuffHelper](https://github.com/runinspring/ruffhelper) - 一个 Ruff 开发辅助工具，把常用的 rap 命令可视化操作。
+* [IoT and Ruff](https://codetimecn.com/episodes/iot) - 郑晔，分享他对物联网的理解。
+* 友军
+  * [Espruino](http://www.espruino.com/) - 它的 JavaScript 解释器给你实时的反馈, 在你敲入回车之后立即执行你输入的代码.
+  * [Tessel](https://tessel.io/) - 支持 npm 的库，因此能够利用日益增长的 Node.js 的社区及其功能。
+  * [JonnyFive](http://johnny-five.io/) - 直接用 Nodejs 开发 arduino 以及更多开发板。
