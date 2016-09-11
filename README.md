@@ -2,11 +2,13 @@
 
 [<img src="https://avatars2.githubusercontent.com/u/18478875?v=3&s=200" align="right" width="70">](https://ruff.io/zh-cn/)
 
-https://ruff.io/zh-cn/
+软件定义硬件 https://ruff.io/zh-cn/
 
 ### 说明
 
-待完善
+通过[中文官网](https://ruff.io/zh-cn/)进行[购买](http://detail.koudaitong.com/show/goods?alias=35wmug7n0nrzf)、[下载](https://ruff.io/zh-cn/docs/download.html)，并阅读[入门文档](https://ruff.io/zh-cn/docs/)
+
+这个仓库用来整理社区内有价值的文章，并收集网络更多相关资源，主要面向想尝试硬件编程的 JavaScript 开发者。
 
 ## 目录
 
