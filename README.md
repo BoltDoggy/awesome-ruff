@@ -17,6 +17,7 @@ Ruff 官方提供的 QQ 交流群：198194304。
 ## 目录
 
 * [案例教程](#案例教程)
+* [项目参考](#项目参考)
 * [更多资源](#更多资源)
 
 ## 案例教程
@@ -25,6 +26,15 @@ Ruff 官方提供的 QQ 交流群：198194304。
 * [Lesson 2 - 七彩循环灯](http://community.ruff.io/t/ruff-lesson-2/410)
 * [Lesson 3 - LCD 抢答器](http://community.ruff.io/t/ruff-lesson-3-lcd/420)
 * [Lesson 4 - LCD 温湿度计](http://community.ruff.io/t/ruff-lesson-4-lcd/451)
+
+## 项目参考
+
+* [~~ruffjs~~](https://github.com/ruffjs) - 官方仓库，暂未发现可供参考的项目案例，如需了解更多，请自行查阅。
+  * [ruff-issues](https://github.com/ruffjs/ruff-issues/issues) - 对 ruff 有啥意见，来这里。
+* [RuffApps](https://github.com/RuffApps) - 官方提供的项目参考
+  * [ruff-tutorial](https://github.com/RuffApps/ruff-tutorial) - 案例教程中的完整项目。
+  * [Apps](https://github.com/RuffApps/Apps) - 更多酷炫的项目参考。
+  * more - 仓库内容不一一列举，请自行前往 github group 查阅。
 
 ## 更多资源
 
