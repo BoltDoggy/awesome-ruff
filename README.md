@@ -11,6 +11,7 @@ https://ruff.io/zh-cn/
 ## 目录
 
 * [案例教程](#案例教程)
+* [更多资源](#更多资源)
 
 ## 案例教程
 
@@ -18,3 +19,7 @@ https://ruff.io/zh-cn/
 * [Lesson 2 - 七彩循环灯](http://community.ruff.io/t/ruff-lesson-2/410)
 * [Lesson 3 - LCD 抢答器](http://community.ruff.io/t/ruff-lesson-3-lcd/420)
 * [Lesson 4 - LCD 温湿度计](http://community.ruff.io/t/ruff-lesson-4-lcd/451)
+
+## 更多资源
+
+* [RuffHelper](https://github.com/runinspring/ruffhelper) - 一个 Ruff 开发辅助工具，把常用的 rap 命令可视化操作。
