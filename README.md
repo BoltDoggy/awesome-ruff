@@ -51,7 +51,7 @@ Ruff 官方提供的 QQ 交流群：198194304。
 
 ## 驱动开发
 
-* 驱动知识扩展 - 官方提供了维基百科地址，对于英文不好的同学，大概也就 ADC 稍微会在百度是时候懵逼吧。
+* 驱动知识扩展
   * ADC - 模/数转换器
     * [Ruff](https://ruff.io/zh-cn/docs/adc.html) - [API](https://ruff.io/zh-cn/api/adc.html) | [Wiki](https://en.wikipedia.org/wiki/Analog-to-digital_converter) - [维基](https://zh.wikipedia.org/wiki/%E9%A1%9E%E6%AF%94%E6%95%B8%E4%BD%8D%E8%BD%89%E6%8F%9B%E5%99%A8) | [百度](http://baike.baidu.com/subview/204037/8092697.htm#viewPageContent)
   * gpio - 通用输入/输出，总线扩展器。
