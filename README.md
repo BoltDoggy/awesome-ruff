@@ -18,6 +18,7 @@ Ruff 官方提供的 QQ 交流群：198194304。
 
 * [案例教程](#案例教程)
 * [项目参考](#项目参考)
+* [依赖推荐](#依赖推荐)
 * [更多资源](#更多资源)
 
 ## 案例教程
@@ -35,6 +36,10 @@ Ruff 官方提供的 QQ 交流群：198194304。
   * [ruff-tutorial](https://github.com/RuffApps/ruff-tutorial) - 案例教程中的完整项目。
   * [Apps](https://github.com/RuffApps/Apps) - 更多酷炫的项目参考。
   * more - 仓库内容不一一列举，请自行前往 github group 查阅。
+
+## 依赖推荐
+
+* [ruff-menu](https://github.com/vilic/ruff-menu) - Awesome Menu for Ruff LCD (lcd1602).
 
 ## 更多资源
 
