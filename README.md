@@ -20,6 +20,7 @@ Ruff 官方提供的 QQ 交流群：198194304。
 * [案例教程](#案例教程)
 * [项目参考](#项目参考)
 * [依赖推荐](#依赖推荐)
+* [驱动开发](#驱动开发)
 * [更多资源](#更多资源)
 
 ## 板子到手
@@ -42,10 +43,20 @@ Ruff 官方提供的 QQ 交流群：198194304。
   * [ruff-tutorial](https://github.com/RuffApps/ruff-tutorial) - 案例教程中的完整项目。
   * [Apps](https://github.com/RuffApps/Apps) - 更多酷炫的项目参考。
   * more - 仓库内容不一一列举，请自行前往 github group 查阅。
+* [ruff-drivers](https://github.com/ruff-drivers) - 官方驱动仓库
 
 ## 依赖推荐
 
 * [ruff-menu](https://github.com/vilic/ruff-menu) - Awesome Menu for Ruff LCD (lcd1602).
+
+## 驱动开发
+
+* 驱动知识扩展 - 官方提供了维基百科地址，对于英文不好的同学，大概也就 ADC 稍微会在百度是时候懵逼吧。
+  * [ADC](http://baike.baidu.com/subview/204037/8092697.htm#viewPageContent) - 模/数转换器
+  * [gpio](http://baike.baidu.com/link?url=rdTNDO9sHHJKV2GFSOYmO0hxnNLlT7ZHVD76uU-CplBar6l8ER02ixb6_F0Wqz6X3jdnsUXlWOg6zJdFUETgSq) - 通用输入/输出，总线扩展器。
+  * [I²C](http://baike.baidu.com/link?url=nQ4qTtTKtXeJ9Xe0xDnXMxGuKgbGPCIamWANIo6rueECCAOS31DDJoaJ2i7n-PNVqVuolSyUa-Zr2S0MDIpsgK) - 内部整合电路，是一种串行通讯总线，使用多主从架构，典型的电压准位为+3.3V(3v3)或+5v(5v0)。
+  * [PWM](http://baike.baidu.com/link?url=p1rsOVGtv6fFufJlrNyrftrdLuUJggFW0qagCM1osj7LPh498aT9lhL_q4v4wPgUQym7KkHufkx-Epu9aLKoQrKy5IsNv6rAOEy2wO9KxqX_t4nwW5x3nivXLWNAnH0XhD-P4xeufS7fWdMwBbuOSK) - 脉冲宽度调制。
+  * [UART](http://baike.baidu.com/link?url=TA4wQAJrCxf_cFoUxXd_XtDEPgIbLZJvCOXzC4jt-XYomOvp6YaVbSIwZ4ocMXpLoDGgl5jskuJGlOg10hjug_) - 通用异步收发传输器，是一种通用串行数据总线，用于异步通信。
 
 ## 更多资源
 
