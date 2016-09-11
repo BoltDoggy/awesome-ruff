@@ -52,11 +52,16 @@ Ruff 官方提供的 QQ 交流群：198194304。
 ## 驱动开发
 
 * 驱动知识扩展 - 官方提供了维基百科地址，对于英文不好的同学，大概也就 ADC 稍微会在百度是时候懵逼吧。
-  * [ADC](http://baike.baidu.com/subview/204037/8092697.htm#viewPageContent) - 模/数转换器
-  * [gpio](http://baike.baidu.com/link?url=rdTNDO9sHHJKV2GFSOYmO0hxnNLlT7ZHVD76uU-CplBar6l8ER02ixb6_F0Wqz6X3jdnsUXlWOg6zJdFUETgSq) - 通用输入/输出，总线扩展器。
-  * [I²C](http://baike.baidu.com/link?url=nQ4qTtTKtXeJ9Xe0xDnXMxGuKgbGPCIamWANIo6rueECCAOS31DDJoaJ2i7n-PNVqVuolSyUa-Zr2S0MDIpsgK) - 内部整合电路，是一种串行通讯总线，使用多主从架构，典型的电压准位为+3.3V(3v3)或+5v(5v0)。
-  * [PWM](http://baike.baidu.com/link?url=p1rsOVGtv6fFufJlrNyrftrdLuUJggFW0qagCM1osj7LPh498aT9lhL_q4v4wPgUQym7KkHufkx-Epu9aLKoQrKy5IsNv6rAOEy2wO9KxqX_t4nwW5x3nivXLWNAnH0XhD-P4xeufS7fWdMwBbuOSK) - 脉冲宽度调制。
-  * [UART](http://baike.baidu.com/link?url=TA4wQAJrCxf_cFoUxXd_XtDEPgIbLZJvCOXzC4jt-XYomOvp6YaVbSIwZ4ocMXpLoDGgl5jskuJGlOg10hjug_) - 通用异步收发传输器，是一种通用串行数据总线，用于异步通信。
+  * ADC - 模/数转换器
+    * [Ruff](https://ruff.io/zh-cn/docs/adc.html) * [API](https://ruff.io/zh-cn/api/adc.html) | [Wiki](https://en.wikipedia.org/wiki/Analog-to-digital_converter) * [维基](https://zh.wikipedia.org/wiki/%E9%A1%9E%E6%AF%94%E6%95%B8%E4%BD%8D%E8%BD%89%E6%8F%9B%E5%99%A8) | [百度](http://baike.baidu.com/subview/204037/8092697.htm#viewPageContent)
+  * gpio - 通用输入/输出，总线扩展器。
+    * [Ruff](https://ruff.io/zh-cn/docs/gpio.html) * [API](https://ruff.io/zh-cn/api/gpio.html) | [Wiki](https://en.wikipedia.org/wiki/General-purpose_input/output) * [维基](https://zh.wikipedia.org/wiki/GPIO) | [百度](http://baike.baidu.com/link?url=rdTNDO9sHHJKV2GFSOYmO0hxnNLlT7ZHVD76uU-CplBar6l8ER02ixb6_F0Wqz6X3jdnsUXlWOg6zJdFUETgSq)
+  * I²C - 内部整合电路，是一种串行通讯总线，使用多主从架构，典型的电压准位为+3.3V(3v3)或+5v(5v0)。
+    * [Ruff](https://ruff.io/zh-cn/docs/i2c.html) * [API](https://ruff.io/zh-cn/api/i2c.html) | [Wiki](https://en.wikipedia.org/wiki/I%C2%B2C) * [维基](https://zh.wikipedia.org/wiki/I%C2%B2C) | [百度](http://baike.baidu.com/link?url=nQ4qTtTKtXeJ9Xe0xDnXMxGuKgbGPCIamWANIo6rueECCAOS31DDJoaJ2i7n-PNVqVuolSyUa-Zr2S0MDIpsgK)
+  * PWM - 脉冲宽度调制。
+    * [Ruff](https://ruff.io/zh-cn/docs/pwm.html) * [API](https://ruff.io/zh-cn/api/pwm.html) | [Wiki](https://en.wikipedia.org/wiki/Pulse-width_modulation) * [维基](https://zh.wikipedia.org/wiki/%E8%84%88%E8%A1%9D%E5%AF%AC%E5%BA%A6%E8%AA%BF%E8%AE%8A) | [百度](http://baike.baidu.com/link?url=p1rsOVGtv6fFufJlrNyrftrdLuUJggFW0qagCM1osj7LPh498aT9lhL_q4v4wPgUQym7KkHufkx-Epu9aLKoQrKy5IsNv6rAOEy2wO9KxqX_t4nwW5x3nivXLWNAnH0XhD-P4xeufS7fWdMwBbuOSK)
+  * UART - 通用异步收发传输器，是一种通用串行数据总线，用于异步通信。
+    * [Ruff](https://ruff.io/zh-cn/docs/uart.html) * [API](https://ruff.io/zh-cn/api/uart.html) | [Wiki](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver/transmitter) * [维基](https://zh.wikipedia.org/wiki/UART) | [百度](http://baike.baidu.com/link?url=TA4wQAJrCxf_cFoUxXd_XtDEPgIbLZJvCOXzC4jt-XYomOvp6YaVbSIwZ4ocMXpLoDGgl5jskuJGlOg10hjug_)
 
 ## 更多资源
 
