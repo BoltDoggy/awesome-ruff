@@ -1,6 +1,6 @@
 # Awesome Ruff [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://ruff.io/images/logo.svg" align="right" width="70">](https://ruff.io/zh-cn/)
+[<img src="https://ruff.io/images/logo.svg" align="right" width="70" style="background: #00A0B0">](https://ruff.io/zh-cn/)
 
 https://ruff.io/zh-cn/
 
