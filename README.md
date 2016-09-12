@@ -19,7 +19,7 @@ Ruff 官方提供的 QQ 交流群：198194304。
 * [板子到手](#板子到手)
 * [案例教程](#案例教程)
 * [项目参考](#项目参考)
-* [依赖推荐](#依赖推荐)
+* [模块推荐](#模块推荐)
 * [驱动开发](#驱动开发)
 * [更多资源](#更多资源)
 
@@ -45,9 +45,13 @@ Ruff 官方提供的 QQ 交流群：198194304。
   * more - 仓库内容不一一列举，请自行前往 github group 查阅。
 * [ruff-drivers](https://github.com/ruff-drivers) - 官方驱动仓库
 
-## 依赖推荐
+## 模块推荐
 
-* [ruff-menu](https://github.com/vilic/ruff-menu) - Awesome Menu for Ruff LCD (lcd1602).
+* [ruff-promise](https://github.com/vilic/ruff-promise) - Promise 实现
+* [ruff-t](https://github.com/vilic/ruff-t) - BDD 风格的测试框架
+* [ruff-home](https://github.com/vilic/ruff-home) - Web 开发框架
+* [ruff-menu](https://github.com/vilic/ruff-menu) - 为 [LCD 1602](https://rap.ruff.io/devices/LCD1602-02) 提供的菜单程序库
+* [ruff-fetch](https://github.com/vilic/ruff-fetch) - 一个简单的 HTTP 请求工具
 
 ## 驱动开发
 
@@ -65,11 +69,17 @@ Ruff 官方提供的 QQ 交流群：198194304。
 
 ## 更多资源
 
+* [Ruff 和 nodejs 在 API 上有何区别](./Ruff-vs-Nodejs-of-API.md)
 * [RuffHelper](https://github.com/runinspring/ruffhelper) - 一个 Ruff 开发辅助工具，把常用的 rap 命令可视化操作。
 * [IoT and Ruff](https://codetimecn.com/episodes/iot) - 郑晔，分享他对物联网的理解。
+* [Ruff 和树莓派的区别是什么？](https://www.zhihu.com/question/46707793) - 简而言之，Ruff 是一套软件，树莓派是一个硬件。
 * 友军
   * [Espruino](http://www.espruino.com/) - 它的 JavaScript 解释器给你实时的反馈, 在你敲入回车之后立即执行你输入的代码.
   * [Tessel](https://tessel.io/) - 支持 npm 的库，因此能够利用日益增长的 Node.js 的社区及其功能。
   * [JonnyFive](http://johnny-five.io/) - 直接用 Nodejs 开发 arduino 以及更多开发板。
+  * [Duktape](http://www.duktape.org/) - 一个新的小巧的超精简可嵌入式 JavaScript 引擎。
+  * [cylonjs](https://cylonjs.com/) - 一个为机器人学和物联网服务的开发的 Javascript 框架。
+  * [iotjs](www.iotjs.net) - 一个使用 JavaScript 语言编写的物联网应用平台
+    * [jerryscript](https://github.com/Samsung/jerryscript) - 一个轻量级的 JavaScript 引擎，它可以运行在受限制的设备上，例如微控制器
 
 **[⬆ 返回顶部](#目录)**
