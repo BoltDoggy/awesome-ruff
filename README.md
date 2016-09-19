@@ -25,6 +25,7 @@ Ruff 官方提供的 QQ 交流群：198194304。
 
 ## 板子到手
 
+* [~~Ruff Sparrow 说明书~~](https://ruff.io/zh-cn/sparrow/index.html) - 截止 2016.09.19，该页面外部设备驱动接口地址未更新。
 * [固件升级](https://ruff.io/zh-cn/docs/firmware-upgrade.html) - 最新版会填平前人踩过的坑。
 * [Ruff 救砖指南](http://community.ruff.io/t/ruff/303) - 啥，固件升级失败了，别慌。
 
