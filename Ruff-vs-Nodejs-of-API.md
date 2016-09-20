@@ -5,7 +5,7 @@
 * Assert
 * Buffer
 * ~~C/C++ Addons~~
-* ~~Child Processes~~
+* Child Processes - 1.5.0 已引入
 * ~~Cluster~~
 * ~~Command Line Options~~ - SDK 中存在一个 `Ruff` 可执行文件，暂时未找到相关说明
 * Console
