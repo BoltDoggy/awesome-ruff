@@ -75,7 +75,7 @@ Ruff 官方提供的 QQ 交流群：198194304。
   * I²C - 内部整合电路，是一种串行通讯总线，使用多主从架构，典型的电压准位为+3.3V(3v3)或+5v(5v0)。
     * [Ruff](https://ruff.io/zh-cn/docs/i2c.html) - [API](https://ruff.io/zh-cn/api/i2c.html) | [Wiki](https://en.wikipedia.org/wiki/I%C2%B2C) - [维基](https://zh.wikipedia.org/wiki/I%C2%B2C) | [百度](http://baike.baidu.com/link?url=nQ4qTtTKtXeJ9Xe0xDnXMxGuKgbGPCIamWANIo6rueECCAOS31DDJoaJ2i7n-PNVqVuolSyUa-Zr2S0MDIpsgK)
     * 驱动示例
-      * [lcd1602-pcf8574a-hd44780](https://rap.ruff.io/raps/lcd1602-pcf8574a-hd44780)
+      * [lcd1602-pcf8574a-hd44780](https://rap.ruff.io/raps/lcd1602-pcf8574a-hd44780) - [github](https://github.com/ruff-drivers/lcd1602-pcf8574a-hd44780)
       * [gy-30](https://rap.ruff.io/raps/gy-30) - [github](https://github.com/ruff-drivers/gy-30.git)
   * PWM - 脉冲宽度调制。
     * [Ruff](https://ruff.io/zh-cn/docs/pwm.html) - [API](https://ruff.io/zh-cn/api/pwm.html) | [Wiki](https://en.wikipedia.org/wiki/Pulse-width_modulation) - [维基](https://zh.wikipedia.org/wiki/%E8%84%88%E8%A1%9D%E5%AF%AC%E5%BA%A6%E8%AA%BF%E8%AE%8A) | [百度](http://baike.baidu.com/link?url=p1rsOVGtv6fFufJlrNyrftrdLuUJggFW0qagCM1osj7LPh498aT9lhL_q4v4wPgUQym7KkHufkx-Epu9aLKoQrKy5IsNv6rAOEy2wO9KxqX_t4nwW5x3nivXLWNAnH0XhD-P4xeufS7fWdMwBbuOSK)
