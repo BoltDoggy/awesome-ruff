@@ -25,10 +25,12 @@ Ruff 官方提供的 QQ 交流群：198194304。
 
 ## 板子到手
 
-* [~~Ruff Sparrow 说明书~~](https://ruff.io/zh-cn/sparrow/index.html) - 截止 2016.09.19，该页面外部设备驱动接口地址未更新。
+* [Ruff Sparrow 说明书](https://ruff.io/zh-cn/sparrow/index.html)
 * [固件升级](https://ruff.io/zh-cn/docs/firmware-upgrade.html) - 最新版会填平前人踩过的坑。
   * [1.5 升级说明](http://community.ruff.io/t/ruff-ap/460) - 默认使用 AP 模式
-    * 绿灯亮代表 AP 开启，你可以看到 RUFF_[SN] 的wifi
+    * 绿灯亮代表 AP 开启，你可以看到 RUFF_[SN] 的 wifi
+    * AP 模式仅用来配置开发板连接 wifi，不能当做路由连接互联网
+    * 配置好开发板后，电脑和开发板连接相同 wifi，在局域网内进行开发
 * [Ruff 救砖指南](http://community.ruff.io/t/ruff/303) - 啥，固件升级失败了，别慌。
 
 ## 案例教程
