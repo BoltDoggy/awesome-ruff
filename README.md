@@ -87,6 +87,7 @@ Ruff 官方提供的 QQ 交流群：198194304。
       * [ky-016](https://rap.ruff.io/raps/ky-016) - [github](https://github.com/ruff-drivers/ky-016.git)
   * UART - 通用异步收发传输器，是一种通用串行数据总线，用于异步通信。
     * [Ruff](https://ruff.io/zh-cn/docs/uart.html) - [API](https://ruff.io/zh-cn/api/uart.html) | [Wiki](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver/transmitter) - [维基](https://zh.wikipedia.org/wiki/UART) | [百度](http://baike.baidu.com/link?url=TA4wQAJrCxf_cFoUxXd_XtDEPgIbLZJvCOXzC4jt-XYomOvp6YaVbSIwZ4ocMXpLoDGgl5jskuJGlOg10hjug_)
+  * QEI - (待完善)
 
 ## 更多资源
 

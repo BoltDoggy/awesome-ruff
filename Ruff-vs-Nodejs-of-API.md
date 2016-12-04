@@ -15,7 +15,7 @@
 * ~~Domain~~
 * ~~Errors~~
 * Events
-* ~~File System~~
+* File System
 * ~~Globals~~
 * HTTP
 * HTTPS
@@ -45,4 +45,12 @@
 * ___Ruff Driver Runner___
 * ___Ruff Driver___
 * ___Ruff Mock___
-* ___GPIO___ / ___ADC___ / ___PWM___ / ___I2C___ / ___UART___
+* ___GPIO___ / ___ADC___ / ___PWM___ / ___I2C___ / ___UART___ / ___QEI___
+
+## CHANGELOG
+
+本文档更新时间，暂时无法获取文档精确更新时间
+
+* 2016-12-04
+    * 新增 QEI
+    * 新增 FileSystem
